@@ -1,0 +1,66 @@
+*{
+    margin:0px;
+    font-size: 40px;
+}
+.a1{
+    text-decoration: none;
+    border: 4px rgb(182, 148, 103) solid;
+    border-radius: 20px;
+    background-image: url(amal.jpeg) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding: 10px;
+    margin-left: 10px; 
+}
+.aa{
+    font-size: 70px;
+    font-weight: 700;
+    text-align: center;
+    border-style: solid;
+    border-bottom: inset;
+    border-width: 5px;
+    border-color: rgba(62, 22, 100, 0.753);
+    padding: 15px;
+
+}
+
+p{
+    color: rgb(241, 208, 164);
+}
+
+
+.ss {
+    border: 1px solid;
+}
+.ss{
+    width: 70%;
+   
+     }
+    td{
+        padding: 30px;
+       
+    }
+    form{
+    direction: rtl;
+     
+    }
+    .e{
+        width: 20%;
+        padding: 10px;
+    }
+    
+    
+    .z {
+        background-color:white;
+        padding: 10px;
+        color: rgba(62, 22, 100, 0.753);
+        position: fixed;
+        bottom: 10px;
+        left: 30px;
+    }
+    * {
+        scroll-behavior: smooth;
+    }
